@@ -1,13 +1,14 @@
 body{
-	background-color:#000000;
+	background-color:#202020;
 	color:#ffffff;
 	font-family:"MinecraftiaRegular";
 	font-weight:normal;
 	font-style:normal;
 }
 div{
-	background-color:#101010;
+	background-color:#2a2a2a;
 	color:#ffffff;
+	padding:10px;
 }
 a{
 	text-decoration:none;
