@@ -1,0 +1,17 @@
+body{
+	background-color:#000000;
+	color:#ffffff;
+	font-family:"MinecraftiaRegular";
+	font-weight:normal;
+	font-style:normal;
+}
+div{
+	background-color:#010101;
+}
+a{
+	text-decoration:none;
+	color:#ffffff;
+}
+a.hover{
+	color:#e1e1ff;
+}
